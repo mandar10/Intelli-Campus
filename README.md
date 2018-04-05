@@ -29,6 +29,8 @@ Following are the features we have implemented:
 * Go to EZ Web Player Dash Board and Add a Video using RTMP Live Stream Option.
 * Now your Live Stream is generated.
 
+Link: [https://www.youtube.com/watch?v=gqiR5ibbYfI](https://www.youtube.com/watch?v=gqiR5ibbYfI)
+
 ### Prerequisites
 
 * [Xampp PHP 5.6 or Above](https://www.apachefriends.org/download.html)
