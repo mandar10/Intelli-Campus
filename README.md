@@ -18,7 +18,16 @@ Following are the features we have implemented:
 
 ## Getting Started
 
-After cloning the project you need to 
+* After cloning the project you need to import the project's database from DB Folder into phpmyadmin of your local machine.
+* Now you are ready to run the project on your local machine.
+
+### Setting up Live Stream.
+
+* Create your account on EZ Web Player and Download Adobe Flash Media Live Encoder.
+* Once you create a account on EZ Web Player you will get a RTMP Live Stream URL.
+* Use that link in Adobe Flash Media Live Encoder as FMS URL and then connect and start recording the live stream video.
+* Go to EZ Web Player Dash Board and Add a Video using RTMP Live Stream Option.
+* Now your Live Stream is generated.
 
 ### Prerequisites
 
