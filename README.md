@@ -37,7 +37,15 @@ Following are the features we have implemented:
 
 ## Demo
 
-Add additional notes about how to deploy this on a live system
+<center><img src="Screenshot (32).png"></center>
+<center><img src="Screenshot (33).png"></center>
+<center><img src="Screenshot (34).png"></center>
+<center><img src="Screenshot (35).png"></center>
+<center><img src="Screenshot (36).png"></center>
+<center><img src="Screenshot (37).png"></center>
+<center><img src="Screenshot (38).png"></center>
+<center><img src="Screenshot (39).png"></center>
+<center><img src="Screenshot(39).png"></center>
 
 ## Built With
 
