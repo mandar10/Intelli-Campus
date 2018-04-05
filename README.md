@@ -37,14 +37,30 @@ Following are the features we have implemented:
 
 ## Demo
 
+### Login Page
 <center><img src="SS/1.png"></center>
+### Profile Page
 <center><img src="SS/2.png"></center>
+
+### Chat System for Online Counseling
 <center><img src="SS/3.png"></center>
+
+### Attendance Tracking
 <center><img src="SS/4.png"></center>
+
+### College E-Commerce
 <center><img src="SS/5.png"></center>
+
+### Student-Teacher Forum 
 <center><img src="SS/6.png"></center>
+
+### E-books
 <center><img src="SS/7.png"></center>
+
+### QR based Attendance
 <center><img src="SS/8.png"></center>
+
+### Live Streaming Lectures
 <center><img src="SS/9.png"></center>
 
 ## Built With
