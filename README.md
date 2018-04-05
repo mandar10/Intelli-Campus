@@ -1,4 +1,4 @@
-# Project Title
+# IntelliCampus
 
 One Paragraph of project description goes here
 
