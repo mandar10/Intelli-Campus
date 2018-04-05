@@ -44,19 +44,12 @@ Add additional notes about how to deploy this on a live system
 * [EZ Web Player](http://www.ezwebplayer.com/)
 * Admin LTE 2 Bootstrap Template
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Mandar Mhapsekar** [mandar10](https://github.com/mandar10)
+* **Prathmesh Mhapsekar** [prathmesh36](https://github.com/prathmesh36)
+* **Raj Patel**
+* **Aniket Mhatre**
 
 ## License
 
