@@ -37,15 +37,15 @@ Following are the features we have implemented:
 
 ## Demo
 
-<center><img src="SS/Screenshot (32).png"></center>
-<center><img src="SS/Screenshot (33).png"></center>
-<center><img src="SS/Screenshot (34).png"></center>
-<center><img src="SS/Screenshot (35).png"></center>
-<center><img src="SS/Screenshot (36).png"></center>
-<center><img src="SS/Screenshot (37).png"></center>
-<center><img src="SS/Screenshot (38).png"></center>
-<center><img src="SS/Screenshot (39).png"></center>
-<center><img src="SS/Screenshot(39).png"></center>
+<center><img src="SS/1.png"></center>
+<center><img src="SS/2.png"></center>
+<center><img src="SS/3.png"></center>
+<center><img src="SS/4.png"></center>
+<center><img src="SS/5.png"></center>
+<center><img src="SS/6.png"></center>
+<center><img src="SS/7.png"></center>
+<center><img src="SS/8.png"></center>
+<center><img src="SS/9.png"></center>
 
 ## Built With
 
