@@ -33,7 +33,7 @@ Following are the features we have implemented:
 
 * [Xampp PHP 5.6 or Above](https://www.apachefriends.org/download.html)
 * [Adobe Flash Media Live Encoder](https://www.adobe.com/go/fmle)
-* [EZ Web Player] (http://www.ezwebplayer.com/)
+* [EZ Web Player](http://www.ezwebplayer.com/)
 
 ## Demo
 
