@@ -58,10 +58,11 @@ Following are the features we have implemented:
 ### E-books
 <center><img src="SS/7.png"></center>
 
-### QR based Attendance
-<center><img src="SS/8.png"></center>
 
 ### Live Streaming Lectures
+<center><img src="SS/8.png"></center>
+
+### QR based Attendance
 <center><img src="SS/9.png"></center>
 
 ## Built With
