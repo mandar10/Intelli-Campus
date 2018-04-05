@@ -39,6 +39,7 @@ Following are the features we have implemented:
 
 ### Login Page
 <center><img src="SS/1.png"></center>
+
 ### Profile Page
 <center><img src="SS/2.png"></center>
 
